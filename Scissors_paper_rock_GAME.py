@@ -7,6 +7,7 @@ name=input("Enter the palyer Name:")
 
 print("\n\n")
 print("********START THE GAME*******")
+print("___________ADD INTO GIT ___________")
 
 import random
 com = random.randint(0,2) # For computer to choose the option
